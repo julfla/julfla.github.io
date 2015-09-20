@@ -1,0 +1,3 @@
+[submodule "kodi-repo"]
+	path = kodi-repo
+	url = https://github.com/julfla/kodi-repo.git
